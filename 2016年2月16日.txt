@@ -1,0 +1,57 @@
+
+Hi there,
+
+From our logs it looks like you were able to access the account after writing us. I'm glad you found a solution! Please let us know if you still need help or have any other questions.
+
+Cheers,
+Chris 
+
+对不认识人打招呼用语
+根据我们日志，在给我们写信之前，你已经成功登录了你的账户。我很高兴你找到了解决办法。如果还有其他问题或者需要帮助请联系我们
+
+加油
+
+你好，
+
+从我们的记录，它看起来像你能写我们后访问该帐户。我很高兴你找到了解决办法！请让我们知道，如果你还需要帮助，或者有其他任何问题。
+
+干杯，
+克里斯
+
+
+
+spam 
+floder 
+appear 
+several attempts  
+sync  
+contact 
+verified  
+unverified  
+count
+total
+period
+
+垃圾邮件  spam
+文件夹    floder
+出现   appear several attempts
+几次尝试   several attempts
+同步   sync
+接触  contact
+定义  verified
+未定义  unverified
+计算总数  count
+总计   total
+时期  period
+
+垃圾    spam  
+文件夹  document  x
+出现  appear
+x
+同步  sync
+联系  contact 
+定义  verfried  x
+未定义  unverified x
+账户    x count
+总结  x
+总计  x
